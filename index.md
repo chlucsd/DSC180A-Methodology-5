@@ -2,7 +2,7 @@
 
 chl147@ucsd.edu
 
-##Section details
+## Section details
 A14, Lily Weng
 
 ## Quarter 2 Project Proposal 
